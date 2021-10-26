@@ -4,3 +4,4 @@
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 分支管理
+修改bug完成了
